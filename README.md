@@ -106,7 +106,7 @@ Scenario: dadas constantes a, b e c validas calcule as raizes.
 
     Given Os parametros de entrada a, b e c como sendo valores do tipo texto
     When Os parametros a, b e c forem validos, isto e, sendo numeros reais
-    Then Deve retornar as raizes da equacao
+    Then Então a função de calcular raizes Deve retornar as raizes da equacao
 ```
 
 ##### CENÁRIO 2
